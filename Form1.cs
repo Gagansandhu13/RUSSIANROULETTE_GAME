@@ -176,6 +176,7 @@ namespace RUSSIANROULETTE_GAME
                 MessageBox.Show("you lose");
             }
         }
+
         public void wins()
         {
 

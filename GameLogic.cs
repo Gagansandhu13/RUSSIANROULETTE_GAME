@@ -22,6 +22,7 @@ namespace RUSSIANROULETTE_GAME
         public string Messageboxgame { get; set; }
 
 
+
         public int RNDNumbergenerate()
         {
             Random myrandom = new Random();
